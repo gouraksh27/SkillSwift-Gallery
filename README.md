@@ -10,7 +10,7 @@ The app supports real-time messaging, service filters, role-based access, bookin
 This app was built using Glide for SpurHacks 2025.
 
 🌐 Live App
-https://finicky-flame-0958.glide.page/dl/1fac4c
+https://finicky-flame-0958.glide.page/dl/952369
 
 
 📄 Features
